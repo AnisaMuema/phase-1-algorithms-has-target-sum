@@ -38,6 +38,17 @@ solution! It's ok if your initial solution isn't optimal from a runtime
 perspective; it's totally fine to brute force your way to a solution and get
 something working before trying to optimize.
 
+```
+
+create a `hasTargetSum` function, that takes in two arguements: an array of numbers and a target number.
+the output should return true if two numbers in the array add up to the target number.
+
+EXAMPLE:
+hasTargetSum([4,0,5,6,7], 10)
+ return true // 4 and 6 add up to 10 
+   
+```
+
 ## Problem Solving Approach
 
 Use the
